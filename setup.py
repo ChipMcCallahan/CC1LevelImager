@@ -9,7 +9,7 @@ setup(
     # Needed to actually package something
     packages=find_packages(),
     # Needed for dependencies
-    install_requires=['PIL>=1.1.7'],
+    install_requires=['PIL'],
     # *strongly* suggested for sharing
     version='0.1',
     # The license can be anything you like
