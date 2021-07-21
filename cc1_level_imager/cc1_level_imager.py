@@ -1,5 +1,6 @@
 import PIL
 import io
+import requests
 
 class CC1LevelImager:
     def __init__(self, path="https://storage.googleapis.com/file-hosting-abcdef/chips/cc2tiles.png"):
